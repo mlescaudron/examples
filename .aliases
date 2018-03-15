@@ -1,0 +1,6 @@
+# Add the following line to ~/.bashrc or ~/.zshrc in order to get this aliases
+# --- IMPORTANT : This is my configuration
+# . ~/Documents/examples/.aliases
+# After update, refresh your alias : source ~/.bashrc
+
+# alias alias_name='action'
